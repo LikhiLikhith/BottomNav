@@ -1,0 +1,76 @@
+{
+  "StudentsDetail":[
+   {
+      "Name" : "Akbar",
+      "Email" : "akbar@gamil.com",
+      "Phone" : "9999999999",
+      "Medal" : "58"
+   },
+   {
+      "Name" : "Birbal",
+      "Email" : "birbal@gmail.com",
+      "Phone" : "8888888888",
+      "Medal" : "25" 
+   },
+   {
+      "Name" : "Sri K Devaraya",
+      "Email" : "skdraya@gmail.com",
+      "Phone" : "7777777777",
+      "Medal" : "99"
+   },
+   {
+      "Name" : "Tenali Raman",
+      "Email" : "traman@gmail.com",
+      "Phone" : "666666666",
+      "Medal" : "55"
+   },
+    {
+      "Name" : "Mr Bean",
+      "Email" : "mrbean@gmail.com",
+      "Phone" : "5555555555",
+      "Medal" : "68"
+   },
+   {
+      "Name" : "Doraemon",
+      "Email" : "dorae@gmail.com",
+      "Phone" : "4444444444",
+      "Medal" : "52"
+   },
+   {
+      "Name" : "Nobitha",
+      "Email" : "nobi@gmail.com",
+      "Phone" : "3333333333",
+      "Medal" : "38"
+   },
+   {
+      "Name" : "Sizuka",
+      "Email" : "sizuu@gmail.com",
+      "Phone" : "2222222222",
+      "Medal" : "45"     
+   },
+    {
+      "Name" : "Tom",
+      "Email" : "tomcat@gmail.com",
+      "Phone" : "1111111111",
+      "Medal" : "22"
+   },
+   {
+      "Name" : "Jerry",
+      "Email" : "jerry@gmail.com",
+      "Phone" : "1278409740",
+      "Medal" : "30"
+   },
+   {
+      "Name" : "Chota Bheem",
+      "Email" : "chota@gmail.com",
+      "Phone" : "8903475028",
+      "Medal" : "45"
+   },
+   {
+      "Name" : "Likhi Man",
+      "Email" : "lman@superhero.com",
+      "Phone" : "9898989800",
+      "Medal" : "99"    
+   }
+]
+}
